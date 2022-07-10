@@ -1,0 +1,28 @@
+{
+  "name": "integration-tests-com-node-e-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopaza/Integration-tests-com-Node-e-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopaza/Integration-tests-com-Node-e-Jest/issues"
+  },
+  "homepage": "https://github.com/diogopaza/Integration-tests-com-Node-e-Jest#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.2"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.4"
+  }
+}
